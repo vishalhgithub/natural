@@ -37,5 +37,4 @@ source ~/.bashrc
 
 # Verify .NET 6 installation
 echo "Verifying .NET 6 installation..."
-dotnet_version=$(dotnet --version)
-echo "Installed .NET version is $dotnet_version"
+
